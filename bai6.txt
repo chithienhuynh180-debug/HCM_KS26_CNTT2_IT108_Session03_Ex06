@@ -1,0 +1,14 @@
+4 tầng dikw của momo
+data: lịch sử chi tiêu, lịch sử giao dịch, sđt khách hàng
+information: báo cáo chi tiêu tháng
+knowledge: cảnh báo khi chi quá mức
+wisdom: gợi ý kế hoạch tiết kiệm
+
+ipo
+input: nhập giao dịch (data)
+process: tổng hợp báo cáo, so sánh ngân sách, phân tích thói quen
+output: báo cáo, cảnh báo, gợi ý tiết kiệm
+
+2 cái bẫy
+bẫy 1: bật View > Show > Hidden items để thấy .env, không xóa nhầm.
+bẫy 2: 1.000.000 x 1 KB = 1.000.000 KB ≈ 1000 MB/ngày.
